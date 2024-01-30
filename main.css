@@ -1,0 +1,50 @@
+@font-face { font-family: Variable; src: url('fonts/Variable.otf'); }
+@font-face { font-family: Variable; font-weight: bold; src: url('fonts/Variable-Bold.otf');}
+
+body {
+  background-color: #191718;
+  /*background-color: #2066B1;*/
+  /*background-color: black;*/
+  color: white;
+  text-align: center;
+  font-family: Variable,monospace;
+  font-size: large;
+  width: 80%;
+  margin: 0 auto;
+}
+
+a {
+  color: #2066B1;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  text-align: left;
+}
+
+ul.menu {
+  padding: 0;
+  text-align: center;
+}
+
+ul.menu li {
+  display: inline;
+}
+
+div.left {
+  text-align: left;
+}
+
+.logo {
+  margin: 20px 0 20px 0;
+}
+
+
+h1 { margin: 20px 0 20px 0; }
+h2 { margin: 20px 0 20px 0; }
+
+
+
