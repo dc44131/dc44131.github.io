@@ -1,6 +1,6 @@
 # DC44131 - The Edinburgh DefCon Group
 
-<img src="images/dc44131.png" alt="DC44131 logo" class="logo"/>
+<img src="images/logo.png" alt="DC44131 logo" class="logo"/>
 
 Based in Edinburgh and its surroundings, we aim to promote networking and information sharing between technology interested people.
 
