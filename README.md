@@ -12,6 +12,7 @@ Everyone is welcome! Between seasoned professionals, proactive students, hardcor
 With an informal stance, meetings will take place at a pub. They should happen every month, on the month's first Monday, unless stated otherwise.
 
 Entrance is free and limited only by physical constraints (i.e. if the room is full). ;)
+
 Update 2026: We're currently meeting at Bar 50 in Edinburgh. 
 
 To contact us, feel free to drop an email to <a href="mailto:dc44131@dc44131.org">dc44131@dc44131.org</a>.<br/>Follow us on <a href="http://twitter.com/DC44131">@DC44131</a> and <a href="https://www.linkedin.com/groups?gid=4458972">our LinkedIn profile</a>
